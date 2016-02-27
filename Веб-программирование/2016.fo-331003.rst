@@ -95,7 +95,7 @@
      -
    * - 8
      - Пермякова Любовь
-     -
+     - lyubanksy_
      -
      -
      -
@@ -198,6 +198,7 @@
 .. GitHub
 
 .. _YuriySimakov: https://github.com/YuriySimakov
+.. _lyubanksy: https://github.com/lyubanksy
 
 .. Домашняя работа #1
 
